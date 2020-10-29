@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/job-application-form/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/job-application-form/static/js/main.4caac500.chunk.js",
+    "main.js.map": "/job-application-form/static/js/main.4caac500.chunk.js.map",
+    "runtime-main.js": "/job-application-form/static/js/runtime-main.09cf0d8f.js",
+    "runtime-main.js.map": "/job-application-form/static/js/runtime-main.09cf0d8f.js.map",
+    "static/js/2.198c64c7.chunk.js": "/job-application-form/static/js/2.198c64c7.chunk.js",
+    "static/js/2.198c64c7.chunk.js.map": "/job-application-form/static/js/2.198c64c7.chunk.js.map",
+    "static/js/3.c84f31dd.chunk.js": "/job-application-form/static/js/3.c84f31dd.chunk.js",
+    "static/js/3.c84f31dd.chunk.js.map": "/job-application-form/static/js/3.c84f31dd.chunk.js.map",
+    "index.html": "/job-application-form/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/job-application-form/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.198c64c7.chunk.js.LICENSE.txt": "/job-application-form/static/js/2.198c64c7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/job-application-form/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09cf0d8f.js",
+    "static/js/2.198c64c7.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.4caac500.chunk.js"
+  ]
+}
